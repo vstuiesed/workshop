@@ -1,4 +1,4 @@
-#Competences
+# Competences
 1. Analyze perspectives and directions of development of information systems and technologies
 2. Develop data structures for use in information systems, operational analysis systems and intellectual systems
 3. Perform modeling, design of software tools and documentation to support activities in various subject areas
